@@ -1,0 +1,104 @@
+.container1{
+    width:100%;
+    height:1050px;
+}
+.one{
+    width:100%;
+    background-image:url("../img/h_img.jpg");
+    background-repeat:no-repeat;
+    height:700px;
+    background-size:cover;
+}
+.two{
+    padding-top:200px;
+    color:white;
+    width:80%;
+    padding-left:400px;
+}
+      
+
+.three{
+    width:100%;
+    height:600px;
+}
+.four{
+    width:100%;
+    height:320px;
+}
+.five{
+    width:100%;
+    height:380px;
+    background-image:url("../img/s_image.jpg");
+    background-repeat:no-repeat;
+    color:white;
+}
+.six{
+    width:100%;
+    height:300px;
+}
+.seven{
+    margin-top:150px;
+    margin-left:500px;
+    font-size:32px
+
+}
+/* .eight{
+    background-image:url("../img/c_image.jpg");
+    width:100%;
+    height:500px; */
+/* } */
+.bb{
+    font-size:32px;
+    margin-left:500px;
+    margin-top:50px;
+}
+.row{
+    margin-top:50px;
+    margin-left:70px;
+}
+#hi{
+    margin-bottom:60px;
+    margin-left:30px;
+}
+.fine{
+    width: 250px;
+}
+.ten{
+    margin-top:30px;
+    margin-left:500px;
+    font-size:32px
+}
+#bad{
+    text-align:center;
+}
+#nice{
+    text-align:center;
+}
+#muk{
+    text-align:center;
+}
+.eleven{
+    background-image:url("../img/c_image.jpg");
+    width:100%;
+    height:500px;
+    margin-top:50px;
+    color:white;
+  
+}
+.twelve{
+   padding-left:250px;
+    font-size:32px;
+}
+.yes{
+    padding-top:50px;
+    padding-left:200px;
+}
+input{
+    width:400px;
+    background:transparent;
+    color:white;
+}
+.number{
+    width:800px;
+    height:200px;
+}

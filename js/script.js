@@ -1,0 +1,33 @@
+$(document).ready(function()
+{
+    $("#quick").click(function(){
+        $("#quick").hide();
+        $("#bad").show();
+    });
+    $("#bad").click(function(){
+        $("#bad").hide();
+        $("#quick").show();
+    });
+});
+$(document).ready(function()
+{
+    $("#hello").click(function(){
+        $("#hello").hide();
+        $("#nice").show();
+    });
+    $("#nice").click(function(){
+        $("#nice").hide();
+        $("#hello").show();
+    });
+});
+$(document).ready(function()
+{
+    $("#jacky").click(function(){
+        $("#jacky").hide();
+        $("#muk").show();
+    });
+    $("#muk").click(function(){
+        $("#muk").hide();
+        $("#jacky").show();
+    });
+});
