@@ -6,4 +6,7 @@ is a webapage where i have tried to design delanie studio using all programming 
 including:HTML,CSS,Jquery;bootstrap;and Javascript.
 ## SETUP INSTALLATION REQUIRED:
 	*UBUNTU.
-	*VISIO STUDIO CODE.
+	*VISIO STUDIO CODE.	*GOOGLE CHROME
+## TECHNOLOGY USED:
+	*HTML.
+
