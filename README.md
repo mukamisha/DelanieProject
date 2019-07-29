@@ -15,5 +15,6 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
 	*JQUERY
 ## BDD
 *you enter your name
+*enter your email
 
 
