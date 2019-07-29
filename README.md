@@ -16,5 +16,6 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
 ## BDD
 *you enter your name
 *enter your email
-
+*type your comment in the text-area
+*once youi submit your commment we will notify you with an alert message
 
