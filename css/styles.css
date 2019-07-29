@@ -102,3 +102,12 @@ input{
     width:800px;
     height:200px;
 }
+textarea{
+    background:transparent;
+    margin-top:20px;
+    
+}
+::placeholder{
+    color:white;
+    
+}
