@@ -11,4 +11,5 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
 	*HTML.
     *CSS
 	*BOOTSTRAP
+	*JAVASCRIPT
 
