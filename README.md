@@ -9,4 +9,6 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
 	*VISIO STUDIO CODE.	*GOOGLE CHROME
 ## TECHNOLOGY USED:
 	*HTML.
+    *CSS
+	
 
