@@ -19,7 +19,7 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
     * enter your email
     * type your comment in the text-area
     * once youi submit your commment we will notify you with an alert message
-## his is my project link
+## THIS IS MY PROJECT LINK
 https://mukamisha.github.io/DelanieProject/
 
 ## SUPPORT AND CONTACT
