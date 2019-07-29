@@ -15,10 +15,10 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
     * JAVASCRIPT.
     * JQUERY.
 ## BDD
-* you enter your name
-* enter your email
-* type your comment in the text-area
-* once youi submit your commment we will notify you with an alert message
+    * you enter your name
+    * enter your email
+    * type your comment in the text-area
+    * once youi submit your commment we will notify you with an alert message
 ## his is my project link
 https://mukamisha.github.io/DelanieProject/
 
