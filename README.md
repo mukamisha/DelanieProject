@@ -10,5 +10,5 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
 ## TECHNOLOGY USED:
 	*HTML.
     *CSS
-	
+	*BOOTSTRAP
 
