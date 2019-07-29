@@ -26,7 +26,7 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
 https://mukamisha.github.io/DelanieProject/
 
 ## SUPPORT AND CONTACT 
-email:mukamishajacky97@gmail.com
+email:mukamishajacky97@gmail.com.
 ## LISENCE
 lisenced by copyright@2019.
 
