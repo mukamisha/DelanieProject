@@ -9,11 +9,11 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
     *VISIO STUDIO CODE.	
     *GOOGLE CHROME.
 ## TECHNOLOGY USED:
-* HTML.
-* CSS.
-* BOOTSTRAP.
-* JAVASCRIPT.
-* JQUERY.
+    * HTML.
+    * CSS.
+    * BOOTSTRAP.
+    * JAVASCRIPT.
+    * JQUERY.
 ## BDD
 * you enter your name
 * enter your email
