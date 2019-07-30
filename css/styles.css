@@ -93,12 +93,17 @@
     padding-top:50px;
     padding-left:200px;
 }
-input{
+#name{
     width:400px;
     background:transparent;
     color:white;
 }
-.number{
+#email{
+    width:400px;
+    background:transparent;
+    color:white;
+}
+#text{
     width:800px;
     height:200px;
 }
@@ -111,6 +116,7 @@ textarea{
     color:white;
     
 }
+<<<<<<< HEAD
 @media screen and (max-width:959px){
     .container1{
         width:100%;
@@ -143,4 +149,30 @@ textarea{
     p{
         width:100%;
     }
+=======
+textarea{
+    color:white;
+}
+#submit{
+margin-top:200px;
+background-color:black;
+color:white;
+}
+#img1,#img2,#img3,#img4,#img5,#img6,#img7,#img8{
+    position:relative;
+}
+#para1,#para2,#para3,#para4,#para5,#para6,#para7,#para8{
+    top:5px;
+    bottom:20px;
+   position:absolute;
+   text-align:center;
+   border:2px solid black;
+   width:248px;
+    height:195px;
+    opacity:0.2;
+    display:none;
+    background-color:white;
+    color:black;
+    text-align:center;
+>>>>>>> ad70237da2b4ef3395accec4f8add25485b6d5bf
 }
