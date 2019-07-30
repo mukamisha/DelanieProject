@@ -111,3 +111,36 @@ textarea{
     color:white;
     
 }
+@media screen and (max-width:959px){
+    .container1{
+        width:100%;
+    }
+    img{
+        width:100%;
+    }
+    p{
+        width:100%;
+    }
+}
+@media screen and (max-width:640px){
+    .container1{
+        width:100%;
+    }
+    img{
+        width:100%;
+    }
+    p{
+        width:100%;
+    }
+}
+@media screen and (max-width:320px){
+    .container1{
+        width:100%;
+    }
+    img{
+        width:100%;
+    }
+    p{
+        width:100%;
+    }
+}
