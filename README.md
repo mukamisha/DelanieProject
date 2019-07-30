@@ -2,7 +2,7 @@
 ### BY **JACKY**
 ## DESCRIPTION
 ### DelanieStudio
-is a webapage where i have tried to design delanie studio using all programming languages and their platforms we have learnt so,far.
+Is a webapage where i have tried to design delanie studio using all programming languages and their platforms we have learnt so,far.
 including:HTML,CSS,Jquery;bootstrap;and Javascript.
 ## SETUP INSTALLATION REQUIRED:
     *UBUNTU.
