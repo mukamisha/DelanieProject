@@ -1,8 +1,8 @@
 # DelanieStudio
-### by **jacky**
+### BY **JACKY**
 ## DESCRIPTION
 ### DelanieStudio
-is a webapage where i have tried to design delanie studio using all programming languages and their platforms we have learnt so,far.
+Is a webapage where i have tried to design delanie studio using all programming languages and their platforms we have learnt so,far.
 including:HTML,CSS,Jquery;bootstrap;and Javascript.
 
 ## SETUP INSTALLATION REQUIRED:
@@ -17,10 +17,10 @@ including:HTML,CSS,Jquery;bootstrap;and Javascript.
 	*JAVASCRIPT
 	*JQUERY
 ## BDD
-*you enter your name.
-*enter your email.
-*type your comment in the text-area.
-*once youi submit your commment we will notify you with an alert message.
+    *you enter your name.
+    *enter your email.
+    *type your comment in the text-area.
+    *once you submit your commment we will notify you with an alert message to comfirm you, that we have received your feedback.
 
 ## This is my project link
 https://mukamisha.github.io/DelanieProject/
