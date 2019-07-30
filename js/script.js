@@ -1,3 +1,4 @@
+//this is business logic
 $(document).ready(function()
 {
     $("#quick").click(function(){
