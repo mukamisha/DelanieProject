@@ -93,30 +93,37 @@
     padding-top:50px;
     padding-left:200px;
 }
-input{
+#name{
     width:400px;
     background:transparent;
     color:white;
 }
-.number{
+#email{
+    width:400px;
+    background:transparent;
+    color:white;
+}
+#text{
     width:800px;
     height:200px;
 }
 textarea{
     background:transparent;
     margin-top:20px;
-    color:white;
     
 }
 ::placeholder{
     color:white;
+    
+}
+textarea{
+    color:white;
 }
 #submit{
-    
-    background-color:black;
-    color:white;
-    }
-
+margin-top:200px;
+background-color:black;
+color:white;
+}
 #img1,#img2,#img3,#img4,#img5,#img6,#img7,#img8{
     position:relative;
 }
